@@ -7,7 +7,7 @@ Automated bot for swiping and matching in Tinder. Built using Python 2.7, Chrome
    Place it in /usr/local/bin
 
 2. selenium -
-   Use pip to install latest selenium verion.
+   Use pip to install latest selenium version.
    pip install selenium
   
   
